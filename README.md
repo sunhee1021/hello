@@ -1,2 +1,0 @@
-# portfolio
-First repository project
